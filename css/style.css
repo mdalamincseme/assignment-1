@@ -1,0 +1,113 @@
+/* banner-part style */
+
+.banner-part {
+  padding: 150px;
+  background-image: url("../images/banner/banner1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text h1 {
+  width: 450px;
+  height: 228px;
+  font-weight: 600;
+  font-size: 65px;
+}
+
+.text p {
+  width: 400px;
+  height: 78px;
+  font-weight: 400;
+}
+
+button {
+  width: 160px;
+  height: 64px;
+  left: 1210px;
+  top: 578px;
+  background-color: #f15b22;
+  color: beige;
+  border: none;
+  border-radius: 5px;
+}
+
+/*  failure part syle  */
+
+.failure-part {
+  display: flex;
+  margin-top: 100px;
+  align-items: center;
+  text-align: left;
+}
+
+ul {
+  list-style: none;
+}
+
+h2 {
+  width: 288px;
+  height: 94px;
+  font-family: "Work Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  margin-left: 50px;
+}
+
+.failure-text p {
+  margin-left: 50px;
+  width: 410px;
+}
+/* plan styles */
+
+.plan {
+  text-align: center;
+}
+
+.heading {
+  margin-left: 35%;
+}
+.items {
+  display: flex;
+}
+.h4 {
+  margin-top: -60px;
+}
+
+/* footer -part */
+
+footer {
+  display: flex;
+  background-color: black;
+  color: white;
+  padding: 70px;
+}
+footer h2 {
+  color: white;
+}
+footer button {
+  display: block;
+  margin-right: 381px;
+  margin-bottom: 10px;
+}
+.left-part {
+  width: 50%;
+}
+input {
+  padding: 10px 20px;
+  margin-bottom: 15px;
+  margin-right: 500px;
+}
+footer a {
+  text-decoration: none;
+  color: white;
+}
+
+h3 {
+  display: block;
+  margin-right: 512px;
+}
+.right-part {
+  width: 50%;
+  text-align: center;
+}
